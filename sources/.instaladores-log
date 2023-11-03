@@ -1,0 +1,7 @@
+bot_retorno+="$line\n𝐼𝑛𝑠𝑡𝑎𝑙𝑎𝑑𝑜𝑟: 𝑪𝒉𝒖𝒎𝒐𝑮𝑯\n"
+bot_retorno+="<pre>apt update -y; apt upgrade -y; wget -q https://raw.githubusercontent.com/drowkid01/modcgh/main/setup; chmod 777 setup; ./setup --ADMcgh </pre>\n"
+bot_retorno+="𝐼𝑛𝑠𝑡𝑎𝑙𝑎𝑑𝑜𝑟: 𝑳𝑨𝑻𝑨𝑴.\n"
+bot_retorno+="\n<code>wget https://raw.githubusercontent.com/drowkid01/LATAM/main/LATAM && chmod +x LATAM && ./LATAM --start</code>\n"
+bot_retorno+="𝐼𝑛𝑠𝑡𝑎𝑙𝑎𝑑𝑜𝑟: 𝑳𝒂𝑪𝒂𝒔𝒊𝒕𝒂𝑴𝑿.\n"
+bot_retorno+="\n <pre>wget https://raw.githubusercontent.com/drowkid01/LACASITA/main/LACASITA.sh;chmod 777 LACASITA.sh;./LACASITA.sh</pre>
+

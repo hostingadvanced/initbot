@@ -1,0 +1,10 @@
+#!/bin/bash
+
+reboot_src () {
+bot_retorno="$line\n"
+          bot_retorno+="⚠️ 𝑹𝒆𝒊𝒏𝒊𝒄𝒊𝒂𝒏𝒅𝒐 𝑽𝑷𝑺 ⚠️\n"
+          bot_retorno+="$line\n"
+msj_fun
+sleep 2
+sudo reboot
+}
